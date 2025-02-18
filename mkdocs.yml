@@ -4,6 +4,7 @@ site_author: Benjamin Lepak
 site_description: "Intelligent Textbook of 4061 Introduction to Operating Systems, using material from Advanced Programming in the UNIX Environment, Third Edition, by W. Richard Stevens and Stephen A. Rago, 2013."
 repo_url: "https://github.com/btlepak/Intelligent-Textbook-v2"
 copyright: "Psinder is licensed under the <a href='https://github.com/michaeltlombardi/mkdocs-psinder/blob/master/LICENSE.md'>MIT license</a>"
+theme: psinder
 nav:
     - Home: index.md
     - Specimen: specimen.md
